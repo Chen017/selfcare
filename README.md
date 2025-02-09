@@ -6,7 +6,7 @@ Note:
 2. 在历史记录界面退出请从顶部状态栏左滑退出
 3. 开启普通模式后前20秒心率为0是正常现象 应用正在测量获取心率中
 4. 应用已经满足使用需求 后续有可能不会更新 (没有能力 没有时间)
-5. 源代码大部分由AI辅助编写 适当参考
+5. 源代码大部分由AI辅助编写 适当参考  
 功能如下  
 <img src="https://github.com/user-attachments/assets/32cc55cf-f4bf-4f86-9b84-99efd200bba2" width="300">  <img src="https://github.com/user-attachments/assets/a0b68567-fcfa-4a1e-921e-62d0b655c949" width="300">
 <img src="https://github.com/user-attachments/assets/a2729d58-1685-49fc-9d9c-ddfccc8e48e0" width="300">   <img src="https://github.com/user-attachments/assets/5e7f5d45-6c0a-423f-8ece-aa30b67c076e" width="300">
