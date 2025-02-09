@@ -195,7 +195,7 @@ class BlackModeActivity : ComponentActivity(), SensorEventListener, GestureDetec
                     // Prevent counting cycles too rapidly (debounce time of 200ms)
                     if (currentTime - lastCycleTime > 200) {
                         cycleCount++ // Increment cycle count
-                        countTextView.text = "频率: $cycleCount" // Update cycle count TextView
+                        countTextView.text = "次数: $cycleCount" // Update cycle count TextView
                         lastCycleTime = currentTime // Update last cycle time
                         cycleCountsInLastSecond++ // Increment cycle count for frequency calculation
                     }
